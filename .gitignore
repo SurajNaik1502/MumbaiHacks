@@ -171,3 +171,4 @@ myenv/Scripts/pip.exe
 myenv/Scripts/deactivate.bat
 myenv/Scripts/Activate.ps1
 /myenv
+/mumbaiHacks/myenv
