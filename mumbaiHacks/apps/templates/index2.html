@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Trending Brand Prediction</title>
+    <script>
+        // Function to get CSRF token from cookies
+        function getCookie(name) {
+            let cookieValue = null;
+            if (document.cookie && document.cookie !== '') {
+                const cookies = document.cookie.split(';');
+                for (let i = 0; i < cookies.length; i++) {
+                    const cookie = cookies[i].trim();
+                    if (cookie.substring(0, name.length + 1) === (name + '=')) {
+                        cookieValue = decodeURIComponent(cookie.substring(name.length + 1));
+                        break;
+                    }
+                }
+            }
+            return cookieValue;
+        }
+    </script>
+</head>
+<body>
+    <h1>Predict Trending Shoe Brand</h1>
+    <form id="prediction-form">
+        <label for="region">Region:</label>
+        <input type="text" id="region" name="region" required>
+        <br><br>
+        <label for="festival">Festival:</label>
+        <input type="text" id="festival" name="festival" required>
+        <br><br>
+        <input type="hidden" name="csrfmiddlewaretoken" value="{{ csrf_token }}">
+        <button type="submit">Predict</button>
+    </form>
+
+    <h2>Prediction Result</h2>
+    <div id="result"></div>
+
+    <script>
+        document.getElementById("prediction-form").addEventListener("submit", function(event) {
+            event.preventDefault();
+            const region = document.getElementById("region").value;
+            const festival = document.getElementById("festival").value;
+            const csrfToken = getCookie('csrftoken'); // Get CSRF token
+
+            fetch("/trending-brand/", {
+                method: "POST",
+                headers: {
+                    "Content-Type": "application/json",
+                    "X-CSRFToken": csrfToken // Include CSRF token here
+                },
+                body: JSON.stringify({ region: region, festival: festival }),
+            })
+            .then(response => {
+                if (!response.ok) {
+                    throw new Error('Network response was not ok');
+                }
+                return response.json();
+            })
+            .then(data => {
+                const resultDiv = document.getElementById("result");
+                resultDiv.innerHTML = `
+                    <p><strong>Top Trending Brand:</strong> ${data.top_brand.brand}</p>
+                    <p><strong>Predicted Sales:</strong> ${data.top_brand.predicted_sales}</p>
+                    <h3>All Brand Predictions:</h3>
+                    <ul>
+                        ${data.all_predictions.map(prediction => 
+                            `<li>${prediction.brand}: ${prediction.predicted_sales}</li>`
+                        ).join('')}
+                    </ul>
+                `;
+            })
+            .catch(error => {
+                console.error("Error:", error);
+                document.getElementById("result").innerText = "An error occurred. Please try again.";
+            });
+        });
+    </script>
+</body>
+</html>

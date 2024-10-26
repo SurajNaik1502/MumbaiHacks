@@ -1,0 +1,101 @@
+Region,Festival,Sales Category,Gender,Brand,Type,Material,Price,Discount,Sales Volume,Rating
+Central India,Baisakhi,Clearance,Female,Adidas,Formal,Canvas,128.64,7,172,4.2
+Central India,Baisakhi,Full-Price,Female,Skechers,Sports,Leather,123.17,19,238,4.4
+North India,Ganesh Chaturthi,Clearance,Unisex,Bata,Sandals,Leather,48.22,7,684,4.4
+East India,Pongal,Discounted,Male,Nike,Formal,Synthetic,40.28,2,977,3.9
+Central India,Baisakhi,Full-Price,Unisex,Puma,Casual,Canvas,120.18,21,803,3.8
+South India,Ganesh Chaturthi,Discounted,Unisex,Adidas,Sandals,Canvas,84.58,13,361,4.4
+East India,Durga Puja,Full-Price,Male,Nike,Sandals,Synthetic,76.3,26,806,4.6
+East India,Baisakhi,Clearance,Male,Puma,Formal,Rubber,41.95,5,177,3.7
+South India,Ganesh Chaturthi,Discounted,Unisex,Reebok,Formal,Synthetic,69.96,3,663,3.8
+Central India,Holi,Full-Price,Female,Bata,Casual,Leather,122.31,27,412,4.6
+Central India,Christmas,Discounted,Unisex,Puma,Sandals,Rubber,61.95,10,498,4.3
+Central India,Diwali,Full-Price,Male,Skechers,Sandals,Leather,170.46,12,788,4.5
+North India,Diwali,Clearance,Female,Bata,Casual,Leather,99.64,23,332,3.6
+Central India,Ganesh Chaturthi,Full-Price,Unisex,Adidas,Casual,Synthetic,175.11,10,287,4.5
+Central India,Holi,Discounted,Male,Nike,Sandals,Canvas,142.01,2,499,4.8
+South India,Ganesh Chaturthi,Discounted,Female,Bata,Formal,Leather,194.45,21,650,3.8
+North India,Christmas,Full-Price,Unisex,Puma,Sandals,Rubber,136.64,17,758,4.5
+Central India,Ganesh Chaturthi,Clearance,Unisex,Reebok,Sports,Rubber,78.99,21,563,3.9
+North India,Christmas,Clearance,Unisex,Skechers,Sandals,Rubber,133.81,16,181,4.2
+North India,Pongal,Clearance,Female,Adidas,Casual,Rubber,34.5,27,117,4.0
+Central India,Durga Puja,Discounted,Unisex,Bata,Casual,Canvas,94.87,18,434,4.8
+South India,Baisakhi,Clearance,Female,Bata,Casual,Canvas,39.85,14,333,4.3
+South India,Pongal,Clearance,Male,Adidas,Sports,Rubber,155.1,1,329,3.7
+East India,Holi,Discounted,Female,Adidas,Sports,Synthetic,59.18,16,812,4.0
+West India,Christmas,Full-Price,Unisex,Puma,Sports,Canvas,55.61,11,443,3.6
+North India,Diwali,Clearance,Male,Reebok,Formal,Rubber,159.65,2,331,4.1
+East India,Ganesh Chaturthi,Clearance,Male,Adidas,Sandals,Rubber,108.13,5,417,3.9
+South India,Holi,Clearance,Unisex,Reebok,Sandals,Leather,111.4,8,255,4.6
+West India,Baisakhi,Full-Price,Female,Adidas,Formal,Leather,106.73,9,238,4.5
+West India,Ganesh Chaturthi,Full-Price,Male,Puma,Formal,Canvas,105.03,13,440,4.6
+East India,Holi,Discounted,Male,Adidas,Sports,Canvas,96.47,20,681,4.9
+Central India,Diwali,Full-Price,Unisex,Bata,Sandals,Leather,47.58,21,825,4.3
+West India,Diwali,Full-Price,Male,Puma,Sandals,Rubber,157.61,14,273,4.5
+North India,Holi,Clearance,Male,Nike,Sandals,Leather,107.41,23,604,4.8
+East India,Christmas,Full-Price,Male,Reebok,Formal,Leather,178.21,15,756,4.0
+North India,Durga Puja,Discounted,Unisex,Reebok,Sports,Leather,150.24,21,639,4.5
+North India,Baisakhi,Clearance,Male,Nike,Sandals,Rubber,118.86,2,359,3.5
+Central India,Durga Puja,Discounted,Male,Puma,Sports,Synthetic,89.49,21,886,4.2
+Central India,Pongal,Clearance,Female,Puma,Sandals,Canvas,34.45,24,382,3.5
+Central India,Diwali,Clearance,Unisex,Reebok,Casual,Leather,129.74,0,274,3.5
+Central India,Diwali,Full-Price,Unisex,Bata,Casual,Canvas,34.97,23,872,4.2
+West India,Diwali,Discounted,Female,Adidas,Sandals,Rubber,169.94,10,258,4.4
+North India,Pongal,Discounted,Unisex,Nike,Formal,Synthetic,163.87,29,655,4.8
+South India,Baisakhi,Full-Price,Unisex,Skechers,Sandals,Canvas,80.22,11,346,3.6
+Central India,Holi,Clearance,Male,Nike,Casual,Synthetic,80.6,8,689,4.6
+Central India,Baisakhi,Full-Price,Unisex,Puma,Formal,Leather,95.68,22,667,4.6
+North India,Baisakhi,Clearance,Female,Nike,Casual,Rubber,139.61,2,641,3.8
+East India,Holi,Full-Price,Unisex,Nike,Formal,Leather,114.86,1,763,3.8
+North India,Christmas,Clearance,Female,Skechers,Sports,Synthetic,126.48,30,637,4.1
+Central India,Pongal,Clearance,Female,Skechers,Sandals,Synthetic,180.89,8,225,4.5
+East India,Holi,Clearance,Female,Reebok,Formal,Rubber,124.31,8,330,4.0
+West India,Ganesh Chaturthi,Discounted,Unisex,Nike,Formal,Rubber,95.85,16,849,4.5
+North India,Pongal,Full-Price,Male,Puma,Sandals,Canvas,183.88,22,758,4.1
+North India,Durga Puja,Discounted,Male,Adidas,Casual,Canvas,38.89,7,411,4.1
+Central India,Diwali,Full-Price,Male,Bata,Casual,Rubber,77.54,5,746,4.1
+South India,Holi,Discounted,Male,Adidas,Formal,Canvas,83.17,22,388,4.0
+West India,Diwali,Discounted,Female,Bata,Sports,Synthetic,154.5,18,788,3.7
+East India,Durga Puja,Discounted,Male,Nike,Formal,Synthetic,183.41,6,223,4.8
+South India,Ganesh Chaturthi,Clearance,Male,Puma,Casual,Rubber,69.66,21,247,4.7
+West India,Ganesh Chaturthi,Clearance,Unisex,Nike,Sports,Leather,173.21,22,283,3.7
+South India,Baisakhi,Full-Price,Female,Skechers,Sports,Synthetic,65.66,14,651,4.8
+North India,Ganesh Chaturthi,Discounted,Unisex,Puma,Sandals,Canvas,161.3,17,843,4.9
+Central India,Pongal,Clearance,Unisex,Reebok,Sandals,Leather,181.28,22,377,4.8
+Central India,Ganesh Chaturthi,Discounted,Male,Puma,Formal,Rubber,118.92,20,732,5.0
+Central India,Holi,Full-Price,Female,Nike,Casual,Synthetic,140.86,24,757,4.3
+West India,Durga Puja,Discounted,Male,Adidas,Sports,Leather,37.25,29,984,3.6
+South India,Holi,Clearance,Female,Bata,Casual,Rubber,139.13,2,251,4.2
+West India,Holi,Full-Price,Male,Adidas,Sandals,Synthetic,65.19,28,835,4.7
+Central India,Christmas,Clearance,Unisex,Adidas,Sports,Synthetic,89.43,12,865,4.8
+West India,Ganesh Chaturthi,Full-Price,Unisex,Skechers,Casual,Leather,131.37,25,961,4.8
+South India,Christmas,Clearance,Male,Nike,Sports,Canvas,149.32,27,633,4.9
+East India,Holi,Clearance,Male,Nike,Formal,Leather,62.29,28,920,3.9
+Central India,Pongal,Full-Price,Unisex,Nike,Casual,Leather,161.94,30,180,4.5
+East India,Durga Puja,Clearance,Male,Nike,Sports,Leather,194.9,12,489,3.7
+South India,Christmas,Clearance,Unisex,Skechers,Sandals,Rubber,80.56,30,681,3.8
+North India,Ganesh Chaturthi,Clearance,Female,Bata,Casual,Canvas,103.87,0,582,4.9
+North India,Christmas,Clearance,Unisex,Adidas,Formal,Synthetic,56.77,13,108,4.3
+West India,Durga Puja,Full-Price,Male,Nike,Casual,Rubber,131.05,30,860,4.9
+West India,Baisakhi,Clearance,Unisex,Puma,Formal,Leather,169.15,4,910,3.7
+Central India,Ganesh Chaturthi,Full-Price,Unisex,Reebok,Formal,Synthetic,190.35,14,899,4.9
+South India,Baisakhi,Discounted,Male,Bata,Sports,Synthetic,44.3,17,765,3.8
+Central India,Durga Puja,Clearance,Female,Reebok,Formal,Synthetic,119.05,9,691,4.4
+South India,Durga Puja,Full-Price,Female,Adidas,Formal,Rubber,67.68,21,603,3.7
+East India,Durga Puja,Discounted,Female,Skechers,Sandals,Rubber,173.18,12,721,4.2
+North India,Christmas,Discounted,Male,Bata,Casual,Leather,36.19,13,657,3.8
+West India,Pongal,Full-Price,Male,Puma,Casual,Leather,169.69,13,423,4.8
+South India,Baisakhi,Discounted,Male,Reebok,Sandals,Rubber,133.95,25,507,4.7
+Central India,Durga Puja,Full-Price,Female,Adidas,Sandals,Synthetic,165.53,2,296,3.9
+North India,Ganesh Chaturthi,Clearance,Unisex,Skechers,Formal,Canvas,74.35,19,624,4.8
+Central India,Holi,Clearance,Unisex,Skechers,Formal,Synthetic,57.88,23,236,4.3
+West India,Pongal,Clearance,Male,Skechers,Sandals,Canvas,165.79,14,402,3.9
+South India,Ganesh Chaturthi,Clearance,Unisex,Reebok,Sandals,Leather,34.32,18,638,4.4
+West India,Holi,Discounted,Female,Puma,Sandals,Synthetic,173.1,18,893,3.6
+West India,Christmas,Full-Price,Male,Reebok,Casual,Rubber,71.78,2,536,3.8
+Central India,Baisakhi,Clearance,Unisex,Nike,Formal,Synthetic,57.88,23,236,4.1
+East India,Holi,Clearance,Male,Skechers,Sandals,Canvas,165.79,14,402,3.9
+South India,Ganesh Chaturthi,Clearance,Male,Reebok,Sandals,Rubber,34.32,18,638,4.4
+North India,Christmas,Discounted,Male,Reebok,Casual,Rubber,71.78,3,536,3.8
+Central India,Holi,Full-Price,Unisex,Bata,Formal,Canvas,190.35,14,899,4.9
+South India,Ganesh Chaturthi,Discounted,Female,Bata,Sports,Synthetic,44.3,17,765,4.1
